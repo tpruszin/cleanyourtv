@@ -1,0 +1,6 @@
+ro.product.model = SWTV-20AE
+ro.product.device = SW4H
+ro.build.version.release = 10
+ro.build.version.sdk = 29
+ro.build.display.id = QTG3.200617.002
+ro.product.manufacturer = skyworth
